@@ -1,0 +1,6 @@
+{
+  "name": "Ma'had Aly Darul Wahyain - Sistem Informasi & Pendaftaran Mahasantri Baru",
+  "description": "Website resmi Ma'had Aly Darul Wahyain Magetan, Jawa Timur. Pusat kaderisasi ulama rabbani dengan metode mulazamah, ta'shil 'ilmi, profil pesantren, galeri, dan pendaftaran santri baru online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
